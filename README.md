@@ -1,4 +1,4 @@
-# Chicken-Jerk
-## A Jamaican based meal.
+# Home made pizza
+## A dish of Italian origin.
 
-This is a well seasoned grilled chicken with a Jamaican Jerk marinade that has the perfect balance of heat,sweet and savory.
+It consists of a flat round base of dough baked with a topping of tomatoes and cheese, typicaly with added meat, fish or vegetables.
